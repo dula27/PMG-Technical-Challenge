@@ -1,3 +1,14 @@
+# Run Script
+```
+$ cd csv-combiner
+$ python3 csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv > combined.csv
+```
+
+# Run Tests
+```
+$ python3 test.py
+```
+
 # CSV Combiner
 
 Write a command line program that takes several CSV files as arguments. Each CSV
