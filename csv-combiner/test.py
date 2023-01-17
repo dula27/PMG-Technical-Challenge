@@ -32,3 +32,5 @@ if df.columns[3] == "filename":
 # Tests if all tests were passed
 if test_counter == 3:
     print("\nAll tests passed.")
+
+output_file.close()
