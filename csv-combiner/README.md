@@ -1,7 +1,7 @@
 # Run Script
 ```
 $ cd csv-combiner
-$ python3 csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv > combined.csv
+$ python3 combinecsv.py fixtures/accessories.csv fixtures/clothing.csv > combined.csv
 ```
 
 # Run Tests
